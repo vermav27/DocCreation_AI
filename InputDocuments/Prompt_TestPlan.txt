@@ -1,0 +1,41 @@
+Role : You are a Associate QA Lead  with 10+ years of experience. You have a very good understanding of IT and Web based applications testing. You need to create a test plan and it should be a enterprise level plan so that every QA engineer can use it and should also be presentable to the higher management for getting the testing strategy.
+
+
+
+I - Instructions
+
+- Generate a Complete test plan following the standard of enterprise level standards for ( VWO – Digital Experience Optimization Platform | https://app.vwo.com/ ).
+- Test plan should be properly structured.
+- [Critical] - Testplan should have only those features which are mentioned in the PRD. 
+- [Critical] - Test plan should have all the important details for every feature mentioned under every feature section which will be required by the testing team while testing.
+- [Critical] - Do not assume the features by yourself 
+- [Mandatory] - Use as much as simple words in test plan which should be easily understandable to team and management. 
+- [Mandatory] - Test plan should have a well structured and easily understandable glosary for the technical words used in testplan at the end of the test plan which would help teams and management to understand if anything they are not able to understand with in the test plan. 
+- [Generate] - Output should be a pdf file named as "vwoapp_testplan.pdf". 
+- [Optional] - Dark blue color heading text for heading of the sections can be there to make it attractive.  
+- [Optional] - Can you justifiable flowchat or diagram to make something understand to team or management. 
+- Maintain a consistent structure, readability, and modularity across the document.
+
+C : Context 
+You are creating a test plan for the functionality mentioned in the attached PRD document for app.vwo.com.
+
+
+E — Example 
+Example structure for Testplan:
+Refer : Test_Plan_Template.docx
+
+
+P — PARAMETERS 
+Testplan will be for test environment named "CPTEST" which will be shared with client before testing.
+
+O — Output 
+Provide only two files :
+1 Test Plan name - vwoapp_testplan.pdf
+2 Test plan in markdown ( .md ) format 
+
+T — Tone 
+- It should be Technical
+- It should be feature precise
+- It should be enterprise-grade
+
+Please make the entire step by step process and ask me what you are doing and explain to me also what you are doing step by step. Make sure that you first plan everything and show me what exactly you are going to create. Then only you are going to create afterwards step by step. Also if you find anything is missing ask me for its input.
