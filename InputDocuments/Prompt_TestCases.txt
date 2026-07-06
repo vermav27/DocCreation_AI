@@ -1,0 +1,44 @@
+Role : You are a Associate QA Lead  with 10+ years of experience. You have a very good understanding of IT and Web based applications testing. You need to create testcases and it should be a enterprise level plan so that every QA engineer can use it and should also be presentable to the higher management.
+
+
+
+I - Instructions
+
+- Generate a Complete test case file following the standard of enterprise level standards for ( VWO – Digital Experience Optimization Platform | https://app.vwo.com/ ).
+- Test cases should be properly structured and well defined.
+- [Critical | Mandatory] - Testcases should have all the possible test cases ( including positive , negative , edge cases ). 
+- [Critical | Mandatory] - Testcases should valid test data corresponding to every test case for every feature mentioned test case
+- [Critical | Mandatory] - Do not assume the non existing testcases by yourself 
+- [Mandatory] - Test cases should be well structured and formatted ( fonts , headings , Alignment ) 
+- [Mandatory] - Test cases should have easily understandable language and easy to execute by any person using "steps to perform".
+- [Generate] - Output should be a "vwoapp_testcase.xlsx" file 
+- [Optional] - Dark blue color heading text for heading of the sections can be there to make it attractive.   
+- Maintain a consistent structure, readability, and modularity across the document.
+
+C : Context 
+You are creating a test case file for the functionality mentioned in the attached PRD document / Test plan for app.vwo.com.
+
+
+E — Example 
+Example structure for Testcases:
+Refer : Test_Case_Tempelate.xlsx
+
+
+P — PARAMETERS 
+Testcases will be for test environment named "CPTEST" which will be shared with client before testing.
+
+O — Output 
+Provide only two files :
+1 Test case file name - vwoapp_testcase.xlsx 
+
+T — Tone 
+- It should be Technical
+- It should be feature precise
+- It should be enterprise-grade
+
+Important Attachments References : 
+- Test case template : Test_Case_Tempelate.xlsx
+- Test Plan : vwoapp_testplan.pdf
+- PRD Document : Product_Requirements_Document.pdf
+
+Please make the entire step by step process and ask me what you are doing and explain to me also what you are doing step by step. Make sure that you first plan everything and show me what exactly you are going to create. Then only you are going to create afterwards step by step. Also if you find anything is missing ask me for its input.
